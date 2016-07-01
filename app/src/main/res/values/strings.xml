@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tubeulerts</string>
+    <string name="title_activity_settings">Notification Settings</string>
+    <string name="title_activity_setttings">SetttingsActivity</string>
+    <string-array name="options_array">
+        <item>5 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>5 Hours</item>
+        <item>12 Hours</item>
+        <item>24 Hours</item>
+    </string-array>
+</resources>
